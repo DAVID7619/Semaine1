@@ -6,7 +6,7 @@ Je souhaite devenir programmeur pour plusieurs *raisons*:
   * Pouvoir me sentir libre
 * J'ai toujours voulu me lancer dans cette voie mais je n'ai pas pu le faire  
 * Quand j'avais une dizaine d'annee, je *bidouillais* dans le fichier autoexec.bat   
-et config.sys sur le 386 dx2 66 de mon paternel afin de libérer les quelques *octects* de mémoire *XMS* 
+et config.sys sur le 386 DX2 66 de mon paternel afin de libérer les quelques *octects* de mémoire *XMS* 
 que nécessitaient les très gourmands jeux **ORIGIN** de l'époque
 J'y passais des heures et des heures *à me prendre la tete*, impossible de me faire à l'idée que ca me marcherait pas !  
 Etonnamment, j'y arrivai souvent et pourtant je n'avais aucune connaissance en programmation : c'etait juste une motivation sans faille pour pouvoir jouer à mes *précieux* lol  
