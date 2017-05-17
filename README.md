@@ -11,7 +11,7 @@ que nécessitaient les très gourmands jeux **ORIGIN** de l'époque
 J'y passais des heures et des heures *à me prendre la tete*, impossible de me faire à l'idée que ca me marcherait pas !  
 Etonnamment, j'y arrivai souvent et pourtant je n'avais aucune connaissance en programmation : c'etait juste une motivation sans faille pour pouvoir jouer à mes *précieux* lol  
 C'était de la programmation à la *Champollion* ;), comme si j'essayais de déchiffrer des hiéroglyphes et de résoudre, énigme après énigme afin d'atteindre le saint Graal = que ca marche !   
-* Pour conclure, je suis un peu fou mais terriblement motivé!
+* Pour conclure, je suis un peu fou mais terriblement motivé !
 
 ## Expérience Professionnelle
 
